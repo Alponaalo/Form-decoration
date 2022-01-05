@@ -1,0 +1,32 @@
+/* h1{
+    color: darkblue;
+}
+input{
+    color: rgb(249, 80, 300);
+}
+*{
+    text-align: center;
+    background-color: green;
+    font-size: 30px;
+}
+.korim{
+    font-size: 50px;
+} */
+.riya{
+    background-color: aqua;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+#rahul input{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
+#rahul .btn{
+    width: 30%;
+}
+.riya a{
+    text-decoration: none;
+    font-size: 20px;
+}

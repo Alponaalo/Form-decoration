@@ -1,0 +1,33 @@
+/* input{
+    color: brown;
+}
+h1{
+    color: coral;
+}
+*{
+    text-align: center;
+    font-size: 20px;
+    background-color: green;
+} */
+.Alo{
+    background-color: aqua;
+    width:  600px;
+    margin: auto;
+    text-align: center;
+}
+.Alo h1{
+    color: gray;
+    font-size: 40px;
+}
+#Alpona input{
+    width: 80px;
+    padding: 10px;
+    margin: 1px;
+}
+#Alpona input :active{
+    background-color: hotpink;
+}
+.Alo a{
+    text-decoration: none;
+    font-size: 25px;
+}

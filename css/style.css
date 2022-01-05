@@ -1,0 +1,32 @@
+
+   .Admin-form{
+       width: 600px;
+       background-color: aqua;
+       margin: auto;
+       text-align: center;
+   }
+   .Admin-form h1 {
+       color:green ;
+   }
+   #login-form input{
+       width: 80%;
+       margin: 10px;
+       padding: 10px;
+        }
+        #login-form .btn{
+            width: 30%;
+        
+        } 
+        #login-form .btn :hover{
+            background-color: thistle;
+            transition: ease-in-out 0.9s;
+            cursor: pointer;
+        }
+        .Admin-form a{
+            text-decoration: none;
+            color:green;
+            font-size: 20px;
+        }
+        #login-form input :active{
+            background-color: hotpink;
+        } 
